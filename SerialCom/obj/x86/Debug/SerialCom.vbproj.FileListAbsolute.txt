@@ -1,0 +1,35 @@
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\bin\Debug\SerialCom.exe
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\bin\Debug\SerialCom.pdb
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\bin\Debug\SerialCom.xml
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\SerialCom.Form1.resources
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\SerialCom.Resources.resources
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\SerialCom.exe
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\SerialCom.xml
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\SerialCom.pdb
+D:\程式區\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.exe
+D:\程式區\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.xml
+D:\程式區\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.pdb
+D:\程式區\SerialCom\SerialCom\SerialCom\bin\Debug\SerialCom.exe
+D:\程式區\SerialCom\SerialCom\SerialCom\bin\Debug\SerialCom.pdb
+D:\程式區\SerialCom\SerialCom\SerialCom\bin\Debug\SerialCom.xml
+D:\程式區\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.Form1.resources
+D:\程式區\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.Resources.resources
+D:\程式區\SerialCom\SerialCom\SerialCom\obj\x86\Debug\SerialCom.vbproj.GenerateResource.Cache
+G:\script\SerialCom\obj\x86\Debug\SerialCom.exe
+G:\script\SerialCom\obj\x86\Debug\SerialCom.xml
+G:\script\SerialCom\obj\x86\Debug\SerialCom.pdb
+I:\script\SerialCom\obj\x86\Debug\SerialCom.exe
+I:\script\SerialCom\obj\x86\Debug\SerialCom.xml
+I:\script\SerialCom\obj\x86\Debug\SerialCom.pdb
+I:\script\SerialCom\bin\Debug\SerialCom.exe
+I:\script\SerialCom\bin\Debug\SerialCom.pdb
+I:\script\SerialCom\bin\Debug\SerialCom.xml
+I:\script\SerialCom\obj\x86\Debug\SerialCom.Form1.resources
+I:\script\SerialCom\obj\x86\Debug\SerialCom.Resources.resources
+I:\script\SerialCom\obj\x86\Debug\SerialCom.vbproj.GenerateResource.Cache
+C:\Users\SQA_shin(x64)\Documents\Visual Studio 2013\Projects\SerialCom\obj\x86\Debug\SerialCom.exe
+C:\Users\SQA_shin(x64)\Documents\Visual Studio 2013\Projects\SerialCom\obj\x86\Debug\SerialCom.xml
+C:\Users\SQA_shin(x64)\Documents\Visual Studio 2013\Projects\SerialCom\obj\x86\Debug\SerialCom.pdb
